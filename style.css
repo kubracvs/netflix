@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(net.jpg);
+    text-align: center;
+    font-weight: 800;
+}
+div{
+    text-align: left;
+    
+}
+h1{
+    color: red;
+    font-weight: 900;
+    font-size: ;
+    font-family: fantasy;
+}
+.baslık{
+    color: white;
+    font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.name input{
+    width: 350px;
+}
+.age input{
+    width: 350px;
+}
+.email input{
+    width: 350px;
+}
+select{
+    width: 350px;
+}
+form{
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    display: inline-block;
+    color: aliceblue;
+    width: fit-content ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+ }   
+ 
+ 
+ .sub{
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    display: inline;
+    border-radius: 10px;
+    height: 30px;
+    width:80px;
+
+ }
+
+
+
+
+
+    
